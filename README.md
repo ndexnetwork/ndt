@@ -54,11 +54,20 @@ N.B. All NDX holders must kept their NDX on registered wallet until NDT distribu
 To get current update, stay connected our social media;
 
 Telegram : https://t.me/ndexofficial
+
  Telegram ANN: https://t.me/ndexofficialchannel
+ 
  Reddit: https://www.reddit.com/user/nDEXofficial/
+ 
  GitHub: https://github.com/ndexnetwork
+ 
  Twitter: https://twitter.com/NdexOfficial
- Facebook: https://www.facebook.com/ndexnetwork
+ 
+  Facebook: https://www.facebook.com/ndexnetwork
+  
  Medium: https://medium.com/@nDEXofficial
+ 
  Linkedin: https://www.linkedin.com/company/ndex-network/
+ 
  ANN: https://bitcointalk.org/index.php?topic=4549377
+ 
